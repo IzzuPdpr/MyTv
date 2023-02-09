@@ -33,7 +33,7 @@ https://aqfadtv.xyz/live/ria/index.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711 
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
